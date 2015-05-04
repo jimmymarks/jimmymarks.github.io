@@ -1,0 +1,26 @@
+# Site settings
+title: Your Internet Friend, Jimmy Marks
+email: jimmy@jimmymarks.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jimmy Marks and I am your Internet friend. Does that mean we're only friends on the Internet? Depends...we ever meet in real life? I'll be your real life friend, too, but mostly I'm there to help you  do fun and nice things on the Internet.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jimmymarks.com" # the base hostname & protocol for your site
+twitter_username: jimmymarks
+
+# Build settings
+markdown: kramdown
+
+navigation:
+
+  - title: Websites
+    url: /websites/
+  - title: Illustration
+    url: /illustrations/
+  - title: Writing
+    url: /writing/
+  - title: Photography
+    url: /photos/
+  - title: Resume
+    url: /resume/
+  - title: Contact
+    url: /contact/
