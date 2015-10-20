@@ -1,0 +1,23 @@
+.resume {
+  margin: 10px 0;
+  float: left;
+  border-bottom: 1px solid #cecece;
+  width: 100%;
+  &__broads {
+    //border: 1px solid green;
+    width: 55%;
+    float: left;
+  }
+  &__particular {
+    //border: 1px solid orange;
+    width: 40%;
+    margin-left: 3%;
+    float: left;
+  }
+
+  &:after{
+    float: none;
+    clear: both;
+  }
+
+}

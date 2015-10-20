@@ -447,3 +447,19 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.resume {
+  margin: 10px 0;
+  float: left;
+  border-bottom: 1px solid #cecece;
+  width: 100%; }
+  .resume__broads {
+    width: 55%;
+    float: left; }
+  .resume__particular {
+    width: 40%;
+    margin-left: 3%;
+    float: left; }
+  .resume:after {
+    float: none;
+    clear: both; }
