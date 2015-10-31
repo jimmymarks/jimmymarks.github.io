@@ -24,7 +24,7 @@ work:
     employer: Science Magazine (AAAS)
     dates: 2014 - Current
     tasks: "UX design and deployment across various *Science* properties"
-    tools: ""
+    tools: "Drupal| Drush| Gulp| Jekyll| OmniGraffle| InvisionApp | Adobe DTM"
   - job: Creative Media Director
     employer: DigitalMailer, Inc.
     dates: 2008 - 2014
@@ -40,7 +40,8 @@ work:
 
 #James Robert "Jimmy" Marks
 
-[Email](mailto:jimmy@jimmymarks.com)
+__Email:__ [jimmy@jimmymarks.com](mailto:jimmy@jimmymarks.com)
 
+__Phone:__   
 (571) 53-JIMMY  
 (571) 535-4669
