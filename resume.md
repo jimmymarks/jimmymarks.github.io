@@ -35,7 +35,6 @@ work:
     dates: 2011 - present
     tasks: "Assisted with content creation and site development| Edited articles and industry-related content| Created artistic content for t-shirts and apparel"
     tools: "Wordpress| Photoshop| Coda| Dreamweaver| Photoshop| Illustrator| Pixelmator"
-
 ---
 
 #James Robert "Jimmy" Marks
