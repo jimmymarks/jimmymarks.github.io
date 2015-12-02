@@ -463,3 +463,21 @@ pre {
   .resume:after {
     float: none;
     clear: both; }
+
+.illustration {
+  margin: 10px 0;
+  float: left;
+  width: 100%; }
+  .illustration__image {
+    width: 50%;
+    margin-right: 8%;
+    float: left; }
+    .illustration__image img {
+      display: block;
+      margin: 0px auto; }
+  .illustration__details {
+    width: 40%;
+    float: left; }
+  .illustration:after {
+    float: none;
+    clear: both; }

@@ -3,7 +3,7 @@ layout: myworks
 title: Illustrations
 permalink: /illustrations/
 illustrations:
-  - images: images/illustrations/images/illustrations/annejimmyface_2x3inch.jpg
+  - images: images/illustrations/annejimmyface_2x3inch.jpg
     title: Anne and Jimmy
     description: This was a logo I did for my wedding. This design went on everything from gift bags to t  -shirts to cornhole boards.
     media: Hand-drawn image to vector (Illustrator)
@@ -28,7 +28,7 @@ illustrations:
     description: My love letter to podcasting. Done on a lark.
     media: Vector (Illustrator)
   - images: images/illustrations/jesselarge.jpg
-    title: Jesse Thorn: Tumbler
+    title: "Jesse Thorn: Tumbler"
     description: An illustration of Jesse Thorn (of Bullseye) that he uses on his Tumblr page.
     media: Vector (Illustrator)
   - images: images/illustrations/jimmybig2.jpg

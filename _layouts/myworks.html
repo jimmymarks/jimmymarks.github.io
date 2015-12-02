@@ -10,31 +10,20 @@ layout: default
 
   <article class="post-content">
 
-    {% for work in page.work %}
-    <div class="resume">
-      <div class="resume__broads">
-        <h4>{{ work.job }}</h4>
-        <p>{{ work.employer }}<br>
-        {{ work.dates }}</p>
-
-        {% assign tasks = work.tasks | split: '|' %}
-        <ul>
-        {% for task in tasks %}
-        <li>{{ task }}</li>
-        {% endfor %}
-        </ul>
+  {% if page.illustrations %}
+    {% for illustration in page.illustrations %}
+    <div class="illustration">
+      <div class="illustration__image">
+        <img src="../{{ illustration.images }}">
       </div>
-      <div class="resume__particular">
-        {% assign tools = work.tools | split: '|' %}
-        <h4>Tools Used:</h4>
-        <ul>
-        {% for tool in tools %}
-        <li>{{ tool }}</li>
-        {% endfor %}
-        </ul>
+      <div class="illustration__details">
+      <h3>{{ illustration.title }}</h3>
+      <p>{{ illustration.description }}</p>
+      <p><small>{{ illustration.media }}</small></p>
       </div>
     </div>
     {% endfor %}
+  {% endif %}
   </article>
 
 </div>
