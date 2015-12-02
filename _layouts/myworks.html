@@ -24,6 +24,21 @@ layout: default
     </div>
     {% endfor %}
   {% endif %}
+
+  {% if page.websites %}
+    {% for website in page.websites %}
+    <div class="illustration">
+      <div class="illustration__image">
+        <a href="{{ website.url }}"><img src="../{{ website.images }}"></a>
+      </div>
+      <div class="illustration__details">
+      <h3><a href="{{ website.url }}">{{ website.title }}</a></h3>
+      <p>{{ website.description }}</p>
+      <p><small>{{ website.media }}</small></p>
+      </div>
+    </div>
+    {% endfor %}
+  {% endif %}
   </article>
 
 </div>
