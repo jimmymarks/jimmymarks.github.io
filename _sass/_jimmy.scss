@@ -1,3 +1,18 @@
+.filmstrip {
+  display: flex;
+  flex-flow: row wrap;
+}
+// .filmstrip > div {
+//
+// }
+.photo {
+  margin: .5%;
+  flex: 1 1 40%;
+  &__image {
+    margin-bottom: 5%;
+  }
+}
+
 .resume {
   margin: 10px 0;
   float: left;
