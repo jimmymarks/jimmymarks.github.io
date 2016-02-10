@@ -28,14 +28,31 @@ layout: default
   {% if page.websites %}
     {% for website in page.websites %}
     <div class="illustration">
+    {% if website.live == "y" %}
+
       <div class="illustration__image">
         <a href="{{ website.url }}"><img src="../{{ website.images }}"></a>
       </div>
       <div class="illustration__details">
+
       <h3><a href="{{ website.url }}">{{ website.title }}</a></h3>
       <p>{{ website.description }}</p>
       <p><small>{{ website.media }}</small></p>
       </div>
+      {% elsif website.live == "n" %}
+
+      <div class="illustration__image">
+        <a href="{{ website.url }}"><img src="../{{ website.images }}"></a>
+      </div>
+      <div class="illustration__details">
+
+      <h4>{{ website.title }}</h4>
+      <p>{{ website.description }}</p>
+      <p><small>{{ website.media }}</small></p>
+      <p><small><i><a href="{{ website.url }}">This site is one I no longer work on. I can't guarantee the live version of this link will look the same, or even be operational.</a></i></small></p>
+      </div>
+      {% endif %}
+
     </div>
     {% endfor %}
   {% endif %}
