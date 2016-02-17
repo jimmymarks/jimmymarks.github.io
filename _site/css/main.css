@@ -491,3 +491,10 @@ pre {
   .illustration:after {
     float: none;
     clear: both; }
+
+.writing .flag small {
+  padding: .75em; }
+.writing .flag__fiction {
+  border-color: brown;
+  color: brown;
+  text-transform: capitalize; }

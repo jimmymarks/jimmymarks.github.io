@@ -18,7 +18,7 @@ layout: default
       <h2 class="writing__title">{{ writing.title }}</h2>
       <p class="writing__tease">{{ writing.tease }}</p>
       <h4 class="writing__link"><a href="{{ writing.link }}">Click here for the full piece</a></h4>
-      <p><small>{{ writing.flag }}</small></p>
+      <p class="flag__{{ writing.flag }}"><small>{{ writing.flag }}</small></p>
     </div>
     {% endfor %}
   {% endif %}

@@ -63,3 +63,17 @@
   }
 
 }
+
+.writing {
+  .flag {
+
+    small {
+      padding: .75em;
+    }
+    &__fiction {
+      border-color: brown;
+      color: brown;
+      text-transform: capitalize;
+    }
+  }
+}
