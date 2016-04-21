@@ -37,7 +37,7 @@ work:
     tools: "Wordpress| Photoshop| Coda| Dreamweaver| Photoshop| Illustrator| Pixelmator"
 ---
 
-#James Robert "Jimmy" Marks
+# James Robert "Jimmy" Marks
 
 __Email:__ [jimmy@jimmymarks.com](mailto:jimmy@jimmymarks.com)
 
