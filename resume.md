@@ -36,7 +36,7 @@ work:
     tasks: "Assisted with content creation and site development| Edited articles and industry-related content| Created artistic content for t-shirts and apparel"
     tools: "Wordpress| Photoshop| Coda| Dreamweaver| Photoshop| Illustrator| Pixelmator"
 ---
-#I'll cut to the chase:
+# I'll cut to the chase:
 
 - I'm a front-end and User Experience (UX) developer and designer
 - I have extensive copywriting and graphic design experience
@@ -51,7 +51,7 @@ work:
   - Nerds
   - And more!
 
-#My stack:
+# My stack:
 
 - HTML/PHP/Markdown
 - CSS/SASS

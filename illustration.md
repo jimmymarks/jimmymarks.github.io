@@ -84,5 +84,3 @@ illustrations:
     description: A logo done for the NCBA; two "happy little trees", celebrating their friendship
     media: Ink on paper, colored digitally (Photoshop)
 ---
-
-Here are some illustrations I have done. I can do some for you! Doodle bop beetle ban
