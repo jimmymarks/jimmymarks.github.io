@@ -29,12 +29,13 @@
     margin-left: 3%;
     float: left;
   }
-
   &:after{
     float: none;
     clear: both;
   }
-
+  &:last-of-type{
+    border-bottom: 0;
+  }
 }
 
 .illustration {
