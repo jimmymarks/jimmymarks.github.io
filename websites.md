@@ -3,6 +3,12 @@ layout: myworks
 title: Websites
 permalink: /websites/
 websites:
+  - images: images/websites/sciencemag.png
+    title: Science Magazine
+    url: http://www.sciencemag.org
+    description: I was a apart of the development team that combined the leading scientific journal news site in the nation with career features and curated topics from scientific editors. Two years of work culminated in a site that is steadily gaining new readers across a variety of countries, through a number of channels and on a wide array of devices.
+    media: Drupal, PatternLab
+    live: y
   - images: images/websites/strata.png
     title: Strata
     url: http://www.stratamusic.org/
@@ -40,5 +46,3 @@ websites:
     media: Built on Wordpress backbone with custom theme
     live: n
 ---
-
-Here are some websites I have done. I can do some for you!
