@@ -23,8 +23,8 @@ work:
   - job: UX Developer
     employer: Science Magazine (AAAS)
     dates: 2014 - Current
-    tasks: "UX design and deployment across various *Science* properties| Focused on the improvement of internal processes and employees user experience| Built blogs, microsites, and sections of sciencemag.org using version controlled code bases and styleguides| Oversaw the implementation and upkeep of ads"
-    tools: "Drupal| Drush| Wordpress| WP-Cli| Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.)| Gulp| Jekyll| PatternLab| UXPin| OmniGraffle| InvisionApp | Adobe DTM"
+    tasks: "UX design and deployment across various *Science* properties| Focused on the improvement of internal processes and employees user experience| Built blogs, microsites, and sections of sciencemag.org using version-controlled code bases and styleguides| Oversaw the implementation and upkeep of ads on the sites| Developed an outreach program for the annual company conference| Created wireframes and mockups for new content areas| Worked on employee training materials and ongoing outreach with stakeholders"
+    tools: "Drupal| Drush| Wordpress| Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.)| Gulp| Jekyll| PatternLab| UXPin| OmniGraffle| Invision | Adobe DTM"
   - job: Creative Media Director
     employer: DigitalMailer, Inc.
     dates: 2008 - 2014

@@ -500,9 +500,14 @@ pre {
     float: none;
     clear: both; }
 
-.writing .flag small {
-  padding: .75em; }
-.writing .flag__fiction {
-  border-color: brown;
-  color: brown;
-  text-transform: capitalize; }
+.itemizer {
+  background-color: rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  color: rgba(0, 0, 0, 0.75);
+  padding: .1rem .1rem .1rem .3rem; }
+
+.writing .flag {
+  text-transform: capitalize;
+  width: 30%; }
+  .writing .flag small {
+    padding: .75em; }

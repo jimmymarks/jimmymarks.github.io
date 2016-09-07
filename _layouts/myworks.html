@@ -18,7 +18,7 @@ layout: default
       <h2 class="writing__title">{{ writing.title }}</h2>
       <p class="writing__tease">{{ writing.tease }}</p>
       <h4 class="writing__link"><a href="{{ writing.link }}">Click here for the full piece</a></h4>
-      <p class="flag__{{ writing.flag }}"><small>{{ writing.flag }}</small></p>
+      <p class="flag itemizer"><small>{{ writing.flag }}</small></p>
     </div>
     {% endfor %}
   {% endif %}
@@ -32,7 +32,7 @@ layout: default
       <div class="illustration__details">
       <h3>{{ illustration.title }}</h3>
       <p>{{ illustration.description }}</p>
-      <p><small>{{ illustration.media }}</small></p>
+      <p class="itemizer"><small>{{ illustration.media }}</small></p>
       </div>
     </div>
     {% endfor %}
@@ -66,7 +66,7 @@ layout: default
 
       <h3><a href="{{ website.url }}">{{ website.title }}</a></h3>
       <p>{{ website.description }}</p>
-      <p><small>{{ website.media }}</small></p>
+      <p class="itemizer"><small>{{ website.media }}</small></p>
       </div>
       {% elsif website.live == "n" %}
 
@@ -77,7 +77,7 @@ layout: default
 
       <h4>{{ website.title }}</h4>
       <p>{{ website.description }}</p>
-      <p><small>{{ website.media }}</small></p>
+      <p class="itemizer"><small>{{ website.media }}</small></p>
       <p><small><i><a href="{{ website.url }}">This site is one I no longer work on. I can't guarantee the live version of this link will look the same, or even be operational.</a></i></small></p>
       </div>
       {% endif %}
