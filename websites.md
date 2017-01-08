@@ -6,8 +6,8 @@ websites:
   - images: images/websites/sciencemag.png
     title: Science Magazine
     url: http://www.sciencemag.org
-    description: I was a apart of the development team that combined the leading scientific journal news site in the nation with career features and curated topics from scientific editors. Two years of work culminated in a site that is steadily gaining new readers across a variety of countries, through a number of channels and on a wide array of devices.
-    media: Drupal, PatternLab
+    description: I was a part of the development team that combined the leading scientific journal news site in the nation with career features and curated topics from scientific editors. Two years of work culminated in a site that is steadily gaining new readers across a variety of countries, through a number of channels and on a wide array of devices.
+    media: Drupal (7 and 8), Wordpress, Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.), Adobe DTM, Node.js, Gulp, Jekyll, PatternLab, UXPin, OmniGraffle, Invision
     live: y
   - images: images/websites/strata.png
     title: Strata
@@ -19,7 +19,7 @@ websites:
     title: How to Listen to Podcasts
     url: http://howtolistentopodcasts.com
     description: A guide to how to listen to podcasts, written for people that aren't nerds.
-    media: Built with Jekyll
+    media: Built with Jekyll, copywritten by me
     live: y
   - images: images/websites/bullseye_site.png
     title: Listen to Bullseye
@@ -31,7 +31,7 @@ websites:
     title: DigitalMailer
     url: http://www.digitalmailer.com
     description: A product site I did for my former employer.
-    media: Hard-coded HTML for the most part; embedded Blogger/Wordpress blogs at various times
+    media: Hard-coded HTML for the most part; embedded Blogger/Wordpress blogs at various times; jQuery and javascript, PHP, MySQL
     live: n
   - images: images/websites/cusoapbx_master.png
     title: CU Soapbox

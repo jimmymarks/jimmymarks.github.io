@@ -9,25 +9,6 @@ layout: default
 
   <article class="post-content">
     {{ content }}
-    <h3>Education</h3>
-    {% for education in page.education %}
-    <div class="resume">
-      <div class="resume__broads">
-        <h4>{{ education.school }}</h4>
-        <p>{{ education.location }}<br>
-        {{ education.honor }}</p>
-      </div>
-      <div class="resume__particular">
-      {% assign courses = education.coursework | split: '|' %}
-      <h4> Related coursework: </h4>
-      <ul>
-        {% for course in courses %}
-          <li>{{ course }}</li>
-        {% endfor %}
-        </ul>
-      </div>
-    </div>
-    {% endfor %}
 
     <h3>Work</h3>
     {% for work in page.work %}
@@ -50,6 +31,26 @@ layout: default
         <ul>
         {% for tool in tools %}
         <li>{{ tool }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endfor %}
+
+    <h3>Education</h3>
+    {% for education in page.education %}
+    <div class="resume">
+      <div class="resume__broads">
+        <h4>{{ education.school }}</h4>
+        <p>{{ education.location }}<br>
+        {{ education.honor }}</p>
+      </div>
+      <div class="resume__particular">
+      {% assign courses = education.coursework | split: '|' %}
+      <h4> Related coursework: </h4>
+      <ul>
+        {% for course in courses %}
+          <li>{{ course }}</li>
         {% endfor %}
         </ul>
       </div>

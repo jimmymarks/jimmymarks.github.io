@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Resume
-permalink: /resume/
+permalink: /printresume/
 education:
   - school: General Assembly
     location: Washington, DC
@@ -23,7 +23,7 @@ work:
   - job: UX Developer
     employer: Science Magazine (AAAS)
     dates: 2014 - Current
-    tasks: "UX design and deployment across various *Science* properties| Focused on the improvement of internal processes and employees user experience| Built blogs, microsites, and sections of sciencemag.org using version-controlled code bases and styleguides| Oversaw the implementation and upkeep of ads on the sites| Developed an outreach program for the annual company conference| Created wireframes and mockups for new content areas| Worked on employee training materials and ongoing outreach with stakeholders"
+    tasks: "UX design and deployment across various <cite>Science</cite> properties| Focused on the improvement of internal processes and employees user experience| Built blogs, microsites, and sections of sciencemag.org using version-controlled code bases and styleguides| Oversaw the implementation and upkeep of ads on the sites| Developed an outreach program for the annual company conference| Created wireframes and mockups for new content areas| Worked on employee training materials and ongoing outreach with stakeholders"
     tools: "Drupal| Drush| Wordpress| Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.)| Gulp| Jekyll| PatternLab| UXPin| OmniGraffle| Invision | Adobe DTM | JIRA"
   - job: Creative Media Director
     employer: DigitalMailer, Inc.
@@ -36,38 +36,3 @@ work:
     tasks: "Assisted with content creation and site development| Edited articles and industry-related content| Created artistic content for t-shirts and apparel"
     tools: "Wordpress| Photoshop| Coda| Dreamweaver| Photoshop| Illustrator| Pixelmator"
 ---
-# I'll cut to the chase:
-
-- I'm a front-end and User Experience (UX) developer and designer
-- I have extensive copywriting and graphic design experience
-- I'm fascinated by Responsive Design, Javascript Applications (both Vanilla and in frameworks)
-- I believe that the best websites are simple, useful, and tasteful
-- I'm good at talking to and with people, including:
-  - Clients
-  - Other developers
-  - Other designers
-  - Potential customers
-  - Jerks
-  - Nerds
-  - And more!
-
-# My stack:
-
-- HTML/PHP/Markdown
-- CSS/SASS
-- Javascript/jQuery
-- Illustrator/Sketch (Vector Illustration)
-- Photoshop/Pixelmator (Pixel Illustration/Photo Processing)
-- Gulp/Jekyll/Grunt/Node
-
-Need the nitty-gritty details? See the full resume below.
-
-***
-
-## James Robert "Jimmy" Marks
-
-__Email:__ [jimmy@jimmymarks.com](mailto:jimmy@jimmymarks.com)
-
-__Phone:__   
-(571) 53-JIMMY  
-(571) 535-4669
