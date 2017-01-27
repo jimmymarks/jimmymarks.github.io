@@ -22,7 +22,7 @@ __Just for fun:__ An app I created for a UX course I took, one that is meant to 
 
 In one of my first tasks for *Science* magazine, I began the difficult task of sorting through much of our static content and trying to find ways to assess, categorize and organize it.
 
-I started by gathering just a few files and [breaking them out into a reasonable taxonomy (.xlsx)](../files/Proposed_Taxonomy_Sections_-_Breakdown.xlsx)). From there, I gathered more pages and began to assess them by [recency, relevance and redundancy (.xlsx)](../files/Untitled_spreadsheet.xlsx). Over time, the spreadsheet grew [a little too unwieldy](../files/Filemanager_Content_Inventory_-_Stakeholder_Review.xlsx), owing to an increased level of stakeholder input.
+I started by gathering just a few files and [breaking them out into a reasonable taxonomy (.xlsx)](../files/Proposed_Taxonomy_Sections_-_Breakdown.xlsx). From there, I gathered more pages and began to assess them by [recency, relevance and redundancy (.xlsx)](../files/Untitled_spreadsheet.xlsx). Over time, the spreadsheet grew [a little too unwieldy](../files/Filemanager_Content_Inventory_-_Stakeholder_Review.xlsx), owing to an increased level of stakeholder input.
 
 For future content audits, I prefer [this style and approach](../files/Content_Audit_Sheet.xlsx). The focus stays on the importance for business and the efficacy of the current user flow.
 
