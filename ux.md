@@ -10,11 +10,17 @@ __If you want to simply comb through the files un-curated, [you can download the
 
 ## Wireframing, design and implementation
 
-I recently found a series of wireframes that were iterated upon, one after another, until they fit the business needs as defined by the stakeholders ([1](../files/wireframeiteration1.jpg)\|[2](../files/wireframeiteration2.jpg)\|[3](../files/wireframeiteration3.jpg)\|[4](../files/wireframeiteration4.jpg)). The final version [can be found here](http://www.sciencemag.org/journals).
+One of my core competencies happens to be one of my favorite things to do: rapid prototyping and wireframing. 
 
-A project we recently launched was to bring our old Webinar site into the redesign. We started by workshopping our wireframes and sketches with the stakeholders and addressed specific business concerns throughout. You can see our [various page layouts in this PDF file](../files/Webinar_Page_Wireframes_Copy.pdf). [The final version](http://www.sciencemag.org/custom-publishing/webinars), which launched this past week, sticks to the blueprint for the most part, with a few minor modifications and the deft application of our pattern library.
+I am currently under NDA for a few projects so I can't share for which organization the prototypes were built. However, these screengrabs demonstrate some of the work I have done for government agencies and contractors alike. These were originally shared as clickable wireframes that engineers and project managers could play with to demonstrate basic functionality. 
 
-I've also assisted our server/back-end team with [process diagrams](../files/Journal_Importer_Process_Diagram.pdf) and [helpful charts](../files/Sciencemag.org_System_Diagram.pdf) that can sell our vision to other members of the organization.
+
+
+This is a series of wireframes that were iterated upon, one after another, until they fit the business needs as defined by the stakeholders ([1](../files/wireframeiteration1.jpg)\|[2](../files/wireframeiteration2.jpg)\|[3](../files/wireframeiteration3.jpg)\|[4](../files/wireframeiteration4.jpg)). The final version [can be found here](http://www.sciencemag.org/journals).
+
+At Science, we brought our old Webinar site into step with our redesign. We started by workshopping our wireframes and sketches with the stakeholders and addressed specific business concerns throughout. You can see our [various page layouts in this PDF file](../files/Webinar_Page_Wireframes_Copy.pdf). [The final version](http://www.sciencemag.org/custom-publishing/webinars), which launched this past week, sticks to the blueprint for the most part, with a few minor modifications and the deft application of our pattern library.
+
+I also assisted our server/back-end team with [process diagrams](../files/Journal_Importer_Process_Diagram.pdf) and [helpful charts](../files/Sciencemag.org_System_Diagram.pdf) that can sell our vision to other members of the organization.
 
 __Just for fun:__ An app I created for a UX course I took, one that is meant to be a guide for road trips. [Available in InVision](https://invis.io/T23QCZQXP).
 

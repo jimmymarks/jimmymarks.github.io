@@ -24,7 +24,7 @@ work:
     employer: CGI Federal
     dates: 2017 - Current
     tasks: "UX and CX Designs for a number of government agencies| Specializing in rapid prototyping, clickable wireframing and the development of Design Pattern Libraries"
-    tools: "Axure| Sketch| InVision| Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.| UXPin"
+    tools: "Axure| Sketch| InVision| Adobe Creative Cloud Apps (Illustrator, Photoshop, etc.)| UXPin"
   - job: UX Developer
     employer: Science Magazine (AAAS)
     dates: 2014 - 2017
