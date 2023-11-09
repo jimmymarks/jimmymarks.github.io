@@ -1,7 +1,7 @@
 ---
 layout: myworks
-title: Websites
-permalink: /websites/
+title: Case Studies
+permalink: /case-studies/
 websites:
   - images: images/websites/sciencemag.png
     title: Science Magazine
